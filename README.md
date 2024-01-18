@@ -1,1 +1,2 @@
-Here is a PostgreSQL schema and a successful task solving
+Here is a PostgreSQL schema and a successful task solving.
+....JOIN, CONCAT, PARTITION BY.....
